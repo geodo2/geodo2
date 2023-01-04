@@ -1,4 +1,4 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=Minsoo%20Kim&fontSize=90)
 ![soominkiminsoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=soominkiminsoo&show_icons=true&theme=radical)
 <!--
 **soominkiminsoo/soominkiminsoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

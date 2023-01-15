@@ -18,6 +18,9 @@
   <img src="https://img.shields.io/badge/JSP-6DB33F?style=for-the-badge&logo=JSP&logoColor=white"> 
   <br>
 </div>
+### Visitor count
+<img src="https://profile-counter.glitch.me/vanshkapoor/count.svg" />
+
 
 ![soominkiminsoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=soominkiminsoo&show_icons=true&theme=radical)
 <!--

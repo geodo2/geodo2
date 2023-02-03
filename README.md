@@ -2,7 +2,7 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=Minsoo%20Kim&fontSize=90)
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=ENJOY+MY+GITHUB!;HAVE+A+GOOD+TIME!!;&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
+  <img src="https://readme-typing-svg.demolab.com/?lines=ENJOY+MY+GITHUB!;HAVE+A+GOOD+TIME!;&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
 </p>
 
 <div align=center><h1>📚 STACK</h1></div>

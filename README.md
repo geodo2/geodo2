@@ -22,7 +22,7 @@
 </div>
 
 
-![soominkiminsoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=geodo2&show_icons=true&theme=radical)
+![geodo2's GitHub stats](https://github-readme-stats.vercel.app/api?username=geodo2&show_icons=true&theme=radical)
   <br>![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=soominkiminsoo)</br>
   <br>![visitor count](https://profile-counter.glitch.me/geodo2/count.svg)</br>
 

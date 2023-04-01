@@ -5,7 +5,7 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=ENJOY+MY+GITHUB!;HAVE+A+GOOD+TIME!;&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
 </p>
 
-<div align=center><h1>📚 STACK</h1></div>
+<div align=center><h1>📚STACK</h1></div>
 <div align=center> 
 <div align=center> 
   <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
